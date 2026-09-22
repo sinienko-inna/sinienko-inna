@@ -4,7 +4,6 @@ Data Analyst | Power BI
 
 Wirtschaftswissenschaftlerin (Hochschulabschluss, ZAB-anerkannt). Weiterbildung Data Analyst (Data Science Institute Education GmbH, 09/2025–03/2026). Fokus: Datenmodellierung, Power Query, DAX und KPI-Dashboards.
 
-**Standort:** Heilbad Heiligenstadt, Deutschland  
 **Sprachen:** Deutsch C1 (telc) · Ukrainisch/Russisch · Englisch (Grundkenntnisse)
 
 ## Fokus
@@ -15,7 +14,7 @@ Wirtschaftswissenschaftlerin (Hochschulabschluss, ZAB-anerkannt). Weiterbildung 
 
 ## Projekte
 
-📍**Ökologische Aspekte der Energiewende in Deutschland (1990–2024)(https://github.com/sinienko-inna/oekologische-aspekte-powerbi)**  
+📍**[Ökologische Aspekte der Energiewende in Deutschland (1990–2024)](https://github.com/sinienko-inna/oekologische-aspekte-powerbi)**  
 Team-Capstone, **Teil III (meine Arbeit):** THG, Bevölkerung, BIP, Wirtschaftssektoren, Klimaziele EU/DE. Zwei Visuals nutzen Teamdaten (CO₂-Preis, Strom) nur als Schnittstelle.
 
 ![KPI-Dashboard Energiewende](assets/ziel-ergebnisse.png)
